@@ -1,0 +1,74 @@
+  [
+    {
+      "id": 1,
+      "title":"Mawsynram is the Wettest Place on Earth with 11,873 Millimetres of Rain Annually",
+      "img":"https://www.holidify.com/images/cmsuploads/compressed/maxresdefault_20180530183008.jpg",
+      "discreption":"Holding a Guinness record for the highest average annual rainfall, this town in Meghalaya gets about 11,873 millimetres of rain owing to its proximity to the Bay of Bengal. The winter months of this region are spent in preparation for the six-month-long monsoon ahead."
+    },
+    {
+        "id": 2,
+        "title":"The Largest Number of Vegetarians in the World",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/Pvmp_plan_(Premium_Vegetarian_Meal_Plan)_20180530181930.jpg",
+        "discreption":"Imagine if your car when left in free gear, starts rolling up a hill against the gravitational pull. Freaky, right? This strange phenomenon is indeed a reality at a road stretch near Tulsi Shyam in Amreli district, Gujarat."
+      },
+      {
+        "id": 3,
+        "title":" The Highest Cricket Ground in the World",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/World's-Highest-Cricket-Ground_20180530181752.jpg",
+        "discreption":"India is a cricket-loving nation. It's only natural for it to also feature the highest cricket ground in the world recorded by the Guinness Book. It is situated at a level of 2,144 metres above sea level in Chail, Himachal Pradesh."
+      },
+      {
+        "id": 4,
+        "title":" The Himalayan Ranges Have 9 out of 10 World's Highest Peaks; A Large Part of Which is in India",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/mount-everest-413_960_720_20180530175034.jpg",
+        "discreption":"The mighty Himalayas boast of 9 out of 10 world's highest peaks, the highest being Mt. Everest at 8,848 metres. While the entire Himalayas do not fall in India itself and a number of highest peaks are actually in Nepal, a large part of Himalayas are in India. "
+      },
+      {
+        "id": 5,
+        "title":"A Meteor formed the Breathtaking Lonar Lake in Maharashtra",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/800px-Lonar_Sarovar_lake_Maharastra_20201109161920.jpg",
+        "discreption":"A 4-hour drive from Aurangabad and doubling as Maharashtra's best-kept secret, this lake was created by a plummeting meteor about 52,000 years ago. Travel enthusiasts must not miss this astronomical marvel and the temples around it."
+      },
+      {
+        "id": 6,
+        "title":"Mysterious Anti-Gravity Hills In Ladakh, Magnetic Hill",
+        "img":"https://www.holidify.com/images/compressed/3000.jpg",
+        "discreption":"With the anti-gravitational effect, this is the only magnetic hill in India. Landmarked by a yellow notice board that spells out instructions and asks you place your car on neutral gear right on the spot marked by white paint, this one will leave you in awe as your car will begin to move uphill on its own."
+      },
+      {
+        "id": 7,
+        "title":" There are Over 300,000 Mosques in India!",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/Jama_masjid_dilli6_20180530175305.jpg",
+        "discreption":"With 14.2% of the country's population being from the Muslim community, India happens to have the most number of mosques in the world. Some of the famous ones being Jama Masjid (New Delhi), Mecca Masjid (Hyderabad), Taj-Ul-Masjid (Bhopal), etc."
+      },
+      {
+        "id": 8,
+        "title":"The Second Largest Network of Roads in the World",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/HIghway_Chennai_Bangalore_20201109163942.jpg",
+        "discreption":"Travelling becomes convenient here since there are around 1.9 million miles of roads in the country, making it the second-largest network of roads in the world only second to the USA."
+      },
+      {
+        "id": 9,
+        "title":"World's Highest Rail Bridge in Jammu",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/Chenab-Bridge_20180530175804.jpg",
+        "discreption":"About 35 metres taller than the Eiffel Tower, the arch-shaped Chenab bridge in Jammu and Kashmir is the world's tallest rail bridge. It stands at the height of 1,178 feet over the river Chenab."
+      },
+      {
+        "id": 10,
+        "title":"Bandra-Worli Sea Link Has steel Wires Equal to Earth's Circumference",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/800px-Bandra_Worli_Seal_Link_20201109164108.jpg",
+        "discreption":"This is a Fact About India that many probably don't know. Each of the cables is capable of holding 900 tons of weight. The entire establishment's weight is equivalent to that of 50,000 African elephants."
+      },
+      {
+        "id": 11,
+        "title":" Most Visited Place in the World, the Golden Temple in Amritsar",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/800px-Golden_Temple_View_20201109164227.jpg",
+        "discreption":"Awarded by the World Book of Records, the Golden Temple of Amritsar is the most visited place in the world with over one lakh devotees flocking at the shrine every single day."
+      },
+      {
+        "id": 12,
+        "title":"The Highest Motorable Road in the World",
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/800px-Khardung_La_ladakh_001_20180530181310.jpg",
+        "discreption":"The world's highest motorable road greets you at Ladakh at an elevation of over 19,300 feet. Bike enthusiasts, take note because little fact about India could bring about a new adrenaline-filled adventure for you."
+      }
+  ]
