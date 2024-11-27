@@ -65,12 +65,7 @@ const slides: Slide[] = [
       setActiveImage((prev) => (prev === 0 ? slides.length - 1 : prev - 1));
     };
   
-    // useEffect(() => {
-    //   const timer = setTimeout(() => {
-    //     clickNext();
-    //   }, 5000);
-    //   return () => clearTimeout(timer); // Cleanup timeout on unmount
-    // }, [activeImage]);
+  
   
     return (
       <div className='relative'>
